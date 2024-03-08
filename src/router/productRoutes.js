@@ -10,7 +10,7 @@ productsRouter.use(bodyParser.json());
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const jsonFilePath = path.join(__dirname, "../routes/products.json");
+const jsonFilePath = path.join(__dirname, "../router/products.json");
 
 // Utiliza fs/promises para leer el archivo JSON de manera asincrónica
 let products;

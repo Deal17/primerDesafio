@@ -1,6 +1,6 @@
 import express from 'express';
-import productsRouter from '../src/routes/productRoutes.js';
-import cartRouter from '../src/routes/cartRoutes.js';
+import productsRouter from '../src/router/productRoutes.js';
+import cartRouter from '../src/router/cartRoutes.js';
 
 const app = express();
 

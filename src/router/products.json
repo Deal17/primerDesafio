@@ -40,11 +40,12 @@
       "stock": 60
     },
     {
-      "title": "Producto de ejemplo",
+      
+      "title": "Producto de ejemplo1",
       "description": "Este es un producto de ejemplo",
-      "price": 19.99,
+      "price": 19.9779,
       "thumbnail": "imagen.png",
-      "code": "ABC123",
+      "code": "ABC1231",
       "size": "M",
       "stock": 10,
       "id": 5
@@ -52,11 +53,51 @@
     {
       "title": "Producto de ejemplo2",
       "description": "Este es un producto de ejemplo",
-      "price": 19.99,
+      "price": 19.939,
       "thumbnail": "imagen.png",
-      "code": "ABC123",
+      "code": "ABC1239",
       "size": "M",
       "stock": 10,
       "id": 6
+    },
+    {
+      "title": "Producto de ejemplo3",
+      "description": "Este es un producto de ejemplo",
+      "price": 19.969,
+      "thumbnail": "imagen.png",
+      "code": "ABC1238",
+      "size": "M",
+      "stock": 10,
+      "id": 7
+    },
+    {
+      "title": "Producto de ejemplo4",
+      "description": "Este es un producto de ejemplo",
+      "price": 19.99,
+      "thumbnail": "imagen.png",
+      "code": "ABC1237",
+      "size": "M",
+      "stock": 10,
+      "id": 8
+    },
+    {
+      "title": "Producto de ejemplo5",
+      "description": "Este es un producto de ejemplo",
+      "price": 19.94339,
+      "thumbnail": "imagen.png",
+      "code": "ABC1236",
+      "size": "M",
+      "stock": 10,
+      "id": 9
+    },
+    {
+      "title": "Producto de ejemplo6",
+      "description": "Este es un producto de ejemplo",
+      "price": 19.94429,
+      "thumbnail": "imagen.png",
+      "code": "ABC1234",
+      "size": "M",
+      "stock": 10,
+      "id": 10
     }
   ]
